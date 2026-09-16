@@ -1,6 +1,7 @@
 ## Hallo :D
 I go by *ghurt* mostly. I do:
 - art (traditional, pixel and digital, can't do CAD for my life unfortunately)
+- graphic design (graphic design is my passion :D)
 - web development
 - game development (!!!)
 

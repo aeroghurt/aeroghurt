@@ -1,5 +1,18 @@
-## Hi there 👋
+## Hallo :D
+I go by *ghurt* mostly. I do:
+- art (traditional, pixel and digital, can't do CAD for my life unfortunately)
+- web development
+- game development (!!!)
 
+I don't do much hardware unfortunately.
+
+## Languages I know:
+- Eng- jk
+- Javascript (+ HTML, CSS)
+- Typescript, I guess
+- Python
+- Java (!!! I love Java)
+- GDScript
 <!--
 **aeroghurt/aeroghurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
